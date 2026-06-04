@@ -51,7 +51,7 @@ orders.shift();
 
 console.log(isArray);
 console.log(creditCardTypeOfBlindermann);
-console.log(orders[2].creditCardType);
+console.log(orders[1].creditCardType);
 console.log(productQuantityOfJoannet);
 console.log(totalPurchaseOfDary);
 console.log(orders);
